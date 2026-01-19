@@ -1,9 +1,18 @@
-# 📝 Formulario con React Hooks
+# 🔢 Contador con React Hooks
 
-Este es un proyecto de práctica en el cual se realizo un contador 
+Este es un proyecto de práctica desarrollado para entender el manejo de **estado** en React utilizando el hook `useState`.
 
 ## 🚀 De qué trata el proyecto
-El objetivo principal es capturar la información ingresada por el usuario (nombre, email, contraseña) y mantener el estado de la aplicación sincronizado con los inputs en tiempo real.
+El objetivo principal es crear una aplicación interactiva que permite manipular un valor numérico en pantalla, actualizando el estado de la interfaz en tiempo real mediante botones.
+
+### Funcionalidades:
+* **Incrementar:** Aumenta el valor del contador.
+* **Decrementar:** Disminuye el valor del contador.
+* **Reset:** Vuelve el contador a su valor inicial.
+
+### Conceptos aplicados:
+* **React Hooks:** Uso de `useState` para almacenar el valor numérico.
+* **Event Handling:** Manejo del evento `onClick` para disparar las acciones.
 
 ## 🛠️ Tecnologías utilizadas
 
